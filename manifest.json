@@ -1978,33 +1978,31 @@
       "Repository": "https://packagemanager.posit.co/cran/latest",
       "description": {
         "Package": "xtable",
-        "Version": "1.8-6",
-        "Date": "2020-06-03",
+        "Version": "1.8-4",
+        "Date": "2019-04-08",
         "Title": "Export Tables to LaTeX or HTML",
         "Authors@R": "c(person(\"David B.\", \"Dahl\", role=\"aut\"),\n             person(\"David\", \"Scott\", role=c(\"aut\",\"cre\"),\n               email=\"d.scott@auckland.ac.nz\"),\n             person(\"Charles\", \"Roosen\", role=\"aut\"),\n             person(\"Arni\", \"Magnusson\", role=\"aut\"),\n             person(\"Jonathan\", \"Swinton\", role=\"aut\"),\n             person(\"Ajay\", \"Shah\", role=\"ctb\"),\n             person(\"Arne\", \"Henningsen\", role=\"ctb\"),\n             person(\"Benno\", \"Puetz\", role=\"ctb\"),\n             person(\"Bernhard\", \"Pfaff\", role=\"ctb\"),\n             person(\"Claudio\", \"Agostinelli\", role=\"ctb\"),\n             person(\"Claudius\", \"Loehnert\", role=\"ctb\"),\n             person(\"David\", \"Mitchell\", role=\"ctb\"),\n             person(\"David\", \"Whiting\", role=\"ctb\"),\n             person(\"Fernando da\", \"Rosa\", role=\"ctb\"),\n             person(\"Guido\", \"Gay\", role=\"ctb\"),\n             person(\"Guido\", \"Schulz\", role=\"ctb\"),\n             person(\"Ian\", \"Fellows\", role=\"ctb\"),\n             person(\"Jeff\", \"Laake\", role=\"ctb\"),\n             person(\"John\", \"Walker\", role=\"ctb\"),\n             person(\"Jun\", \"Yan\", role=\"ctb\"),\n             person(\"Liviu\", \"Andronic\", role=\"ctb\"),\n             person(\"Markus\", \"Loecher\", role=\"ctb\"),\n             person(\"Martin\", \"Gubri\", role=\"ctb\"),\n             person(\"Matthieu\", \"Stigler\", role=\"ctb\"),\n             person(\"Robert\", \"Castelo\", role=\"ctb\"),\n             person(\"Seth\", \"Falcon\", role=\"ctb\"),\n             person(\"Stefan\", \"Edwards\", role=\"ctb\"),\n             person(\"Sven\", \"Garbade\", role=\"ctb\"),\n             person(\"Uwe\", \"Ligges\", role=\"ctb\"))",
         "Maintainer": "David Scott <d.scott@auckland.ac.nz>",
-        "Imports": "stats, utils, methods",
-        "Suggests": "knitr, spatialreg, spdep, splm, sphet, plm, zoo, survival,\nglue",
+        "Imports": "stats, utils",
+        "Suggests": "knitr, plm, zoo, survival",
         "VignetteBuilder": "knitr",
         "Description": "Coerce data to LaTeX and HTML tables.",
         "URL": "http://xtable.r-forge.r-project.org/",
         "Depends": "R (>= 2.10.0)",
         "License": "GPL (>= 2)",
-        "Repository": "R-Forge",
-        "Author": "David B. Dahl [aut],\n  David Scott [aut, cre],\n  Charles Roosen [aut],\n  Arni Magnusson [aut],\n  Jonathan Swinton [aut],\n  Ajay Shah [ctb],\n  Arne Henningsen [ctb],\n  Benno Puetz [ctb],\n  Bernhard Pfaff [ctb],\n  Claudio Agostinelli [ctb],\n  Claudius Loehnert [ctb],\n  David Mitchell [ctb],\n  David Whiting [ctb],\n  Fernando da Rosa [ctb],\n  Guido Gay [ctb],\n  Guido Schulz [ctb],\n  Ian Fellows [ctb],\n  Jeff Laake [ctb],\n  John Walker [ctb],\n  Jun Yan [ctb],\n  Liviu Andronic [ctb],\n  Markus Loecher [ctb],\n  Martin Gubri [ctb],\n  Matthieu Stigler [ctb],\n  Robert Castelo [ctb],\n  Seth Falcon [ctb],\n  Stefan Edwards [ctb],\n  Sven Garbade [ctb],\n  Uwe Ligges [ctb]",
-        "Repository/R-Forge/Project": "xtable",
-        "Repository/R-Forge/Revision": "131",
-        "Repository/R-Forge/DateTimeStamp": "2020-06-19 11:19:59",
-        "Date/Publication": "2020-06-19 11:19:59",
+        "Repository": "RSPM",
         "NeedsCompilation": "no",
-        "Packaged": "2020-06-19 11:27:34 UTC; rforge",
-        "Built": "R 4.4.1; ; 2024-06-25 18:34:36 UTC; windows"
+        "Packaged": "2019-04-21 10:56:51 UTC; dsco036",
+        "Author": "David B. Dahl [aut],\n  David Scott [aut, cre],\n  Charles Roosen [aut],\n  Arni Magnusson [aut],\n  Jonathan Swinton [aut],\n  Ajay Shah [ctb],\n  Arne Henningsen [ctb],\n  Benno Puetz [ctb],\n  Bernhard Pfaff [ctb],\n  Claudio Agostinelli [ctb],\n  Claudius Loehnert [ctb],\n  David Mitchell [ctb],\n  David Whiting [ctb],\n  Fernando da Rosa [ctb],\n  Guido Gay [ctb],\n  Guido Schulz [ctb],\n  Ian Fellows [ctb],\n  Jeff Laake [ctb],\n  John Walker [ctb],\n  Jun Yan [ctb],\n  Liviu Andronic [ctb],\n  Markus Loecher [ctb],\n  Martin Gubri [ctb],\n  Matthieu Stigler [ctb],\n  Robert Castelo [ctb],\n  Seth Falcon [ctb],\n  Stefan Edwards [ctb],\n  Sven Garbade [ctb],\n  Uwe Ligges [ctb]",
+        "Date/Publication": "2019-04-21 12:20:03 UTC",
+        "Encoding": "UTF-8",
+        "Built": "R 4.4.0; ; 2024-04-25 19:46:08 UTC; windows"
       }
     }
   },
   "files": {
     ".Rprofile": {
-      "checksum": "a24483b01e0ddca9ad14a59be51b5c77"
+      "checksum": "cdc61d9428cfa1f8011db92c1087381f"
     },
     "app.R": {
       "checksum": "f2fb11dc47043e010e71656f12c461c0"
@@ -2016,7 +2014,7 @@
       "checksum": "8fa6be40ea6f95ed50a152a84d910e11"
     },
     "renv.lock": {
-      "checksum": "36ea3baf23cebffe8fda074f1a86de3e"
+      "checksum": "4eae4cf43f12ea14aca6d5265fa345bb"
     }
   },
   "users": null
